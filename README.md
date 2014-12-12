@@ -1,0 +1,4 @@
+wsy
+===
+
+coffee-script   test
